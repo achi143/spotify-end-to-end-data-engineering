@@ -2,6 +2,9 @@
 
 ### Introduction
 Built an End-to-End ETL pipeline using the Spotify API on AWS The pipeline will retrieve data from the spotify API, transform it using Python, and load it into AWS cloud storage.
+
+### Architecture
+![Architecture Diagram](https://github.com/achi143/spotify-end-to-end-data-engineering/blob/main/Project-flow%20diagram.webp)
 ### About Dataset/API
 This API contains information about music artist, album and songs- [Spotify API] (https://developer.spotify.com/documentation/web-api)
 ### Services Used
